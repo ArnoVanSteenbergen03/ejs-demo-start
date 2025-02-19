@@ -13,7 +13,7 @@
     "nodejs",
     "templating"
   ],
-  "author": "Frederick Roegiers",
+  "author": "Arno Van Steenbergen",
   "license": "ISC",
   "dependencies": {
     "ejs": "^3.1.10",
